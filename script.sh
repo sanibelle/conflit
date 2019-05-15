@@ -1,6 +1,6 @@
 #!/bin/bash
 fonction1(){
-
+	echo"salut"
 }
 
 
